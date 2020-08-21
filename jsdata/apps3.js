@@ -10,7 +10,6 @@ while (counter < 10)
     console.log(twitterAccount.tweet[counter]);
     console.log(twitterAccount.userName[counter]);
     console.log(twitterAccount.dateOfCreation[counter]);
-    console.log(twitterAccount.userAge[counter]);
 
 
     counter++;
